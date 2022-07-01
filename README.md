@@ -1,3 +1,5 @@
+# 中文近义词json格式文件整理
+
 ## 来源：
 
 处理的github上的开源项目A "soft" Chinese Synonyms Collection
